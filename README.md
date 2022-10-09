@@ -1,2 +1,2 @@
 # Computacao-Grafica
- Tranformações e processamento de imagens em Java
+ Transformações e processamento de imagens em Java
